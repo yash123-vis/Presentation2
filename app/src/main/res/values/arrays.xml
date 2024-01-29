@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="symptom_list_1">
+        <item>SELECT SYMTOM</item>
+        <item>Chest Pain</item>
+        <item>Shortness of Breath</item>
+        <item>Irregular Heartbeat</item>
+        <item>Fatigue</item>
+        <item>Dizziness</item>
+        <item>Swelling in Ankles or Legs</item>
+        <item>Nausea</item>
+        <item>Headaches</item>
+        <item>Numbness or Tingling</item>
+        <item>Seizures</item>
+        <item>Difficulty Speaking</item>
+        <item>Vision Problems</item>
+        <item>Weakness in Limbs</item>
+        <item>Memory Problems</item>
+        <item>Ear Pain or Discharge</item>
+        <item>Nasal Congestion</item>
+        <item>Sore Throat</item>
+        <item>Difficulty Hearing</item>
+        <item>Tinnitus</item>
+        <item>Sinus Pain</item>
+        <item>Voice Changes</item>
+        <item>Chronic Pain</item>
+        <item>Digestive Problems</item>
+        <item>Skin Changes</item>
+        <item>Swollen Lymph Nodes</item>
+        <item>Irregular Menstrual Cycles</item>
+        <item>Pelvic Pain</item>
+        <item>Vaginal Bleeding between Periods</item>
+        <item>Painful Periods</item>
+        <item>Pain during Intercourse</item>
+        <item>Abnormal Vaginal Discharge</item>
+        <item>Missed Periods</item>
+        <item>Blurred Vision</item>
+        <item>Eye Pain</item>
+        <item>Redness or Irritation</item>
+        <item>Dry Eyes</item>
+        <item>Double Vision</item>
+        <item>Sensitivity to Light</item>
+        <item>Gradual Loss of Peripheral Vision</item>
+        <item>Depressed Mood</item>
+        <item>Anxiety or Excessive Worry</item>
+        <item>Changes in Sleep Patterns</item>
+        <item>Loss of Interest or Pleasure</item>
+        <item>Changes in Appetite or Weight</item>
+        <item>Difficulty Concentrating</item>
+        <item>Acute Abdominal Pain</item>
+        <item>Swelling or Lump in Abdomen</item>
+        <item>Bowel or Urinary Changes</item>
+        <item>Unexplained Weight Loss</item>
+        <item>Severe Injury Requiring Surgery</item>
+        <item>Appendicitis Symptoms</item>
+        <item>Hernia Symptoms</item>
+        <item>Chronic Cough</item>
+        <item>Coughing up Blood</item>
+        <item>Night Sweats</item>
+        <item>Unintentional Weight Loss</item>
+        <item>Fever</item>
+        <item>Unexplained Weight Gain or Loss</item>
+        <item>Excessive Thirst and Urination</item>
+        <item>Changes in Skin</item>
+        <item>Hair Loss</item>
+        <item>Mood Swings</item>
+        <item>Joint Pain</item>
+        <item>Limited Range of Motion</item>
+        <item>Fractures</item>
+        <item>Back Pain</item>
+        <item>Muscle Weakness</item>
+        <item>Bone Deformities</item>
+        <item>Frequent Urination</item>
+        <item>Painful Urination</item>
+        <item>Blood in Urine</item>
+        <item>Kidney Stones</item>
+        <item>Erectile Dysfunction</item>
+        <item>Urinary Tract Infections</item>
+        <item>Incontinence</item>
+        <item>Abdominal Pain</item>
+        <item>Nausea</item>
+        <item>Bloating</item>
+        <item>Diarrhea</item>
+        <item>Constipation</item>
+        <item>Blood in Stool</item>
+        <item>Swelling (Edema)</item>
+        <item>High Blood Pressure</item>
+        <item>Kidney Stones</item>
+        <item>Proeteinuria</item>
+        <item>Anemia</item>
+        <item>Persistent Fatigue</item>
+        <item>Lumps or Masses</item>
+        <item>Changes in Bowel or Bladder Habits</item>
+        <item>Difficulty Swallowing</item>
+        <item>Cough</item>
+        <item>Runny Nose</item>
+        <item>Irritability</item>
+    </string-array>
+
+
+
+
+</resources>
